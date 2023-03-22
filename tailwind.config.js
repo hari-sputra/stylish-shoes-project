@@ -7,6 +7,7 @@ module.exports = {
     fontFamily: {
       sans: ['Inter', 'sans-serif'],
       source: ['Source Sans Pro', 'sans-serif'],
+      play: ['Playfair Display', 'sans-serif'],
     },
     extend: {},
   },
